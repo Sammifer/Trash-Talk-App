@@ -1,0 +1,145 @@
+/* Contains the classes for app -->*/
+.banner {
+  height: 140px;
+  padding: 10px;
+  border-bottom: solid gray;
+}
+
+h1 {
+  text-align: center;
+  font-size: 3rem;
+  padding: 10px;
+}
+
+.tabsbar {
+  border-bottom: solid gray;
+}
+
+.individual-tab {
+  font-size: large;
+  width: 180px;
+  padding: 0% 3% 0% 5%;
+  color: inherit;
+  text-align: center;
+}
+
+.active{
+  border-bottom: 5px solid rgba(70, 168, 24, 0.57);
+}
+
+.home{
+
+}
+
+.shelf-life{
+
+}
+
+.compost{
+
+}
+
+.redeem{
+
+}
+
+.help {
+
+}
+
+.column {
+  float: left;
+}
+
+.column.left {
+  width: 70%;
+}
+
+.column.right {
+
+  width: 25%;
+}
+.announcement_images{
+  align-content: center;
+}
+.announcement_content {
+  background-color: gray;
+  padding: 30px;
+  height: 600px;
+  border: 1px solid black;
+}
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a >img {
+  width: 70%;
+  margin: auto;
+}
+
+.store_locator {
+  padding: 30px;
+  height: 600px;
+  border: 1px solid black;
+}
+
+.btn-home {
+    background-color: white; /* White background */
+    border: 0px; /* Remove borders */
+    color: black; /* White text */
+    padding: 0 4px; /* Some padding */
+    font-size: 25px; /* Set a font size */
+    cursor: pointer; /* Mouse pointer on hover */
+
+}
+ form.search input[type=text] {
+    padding: 3px;
+    font-size: 17px;
+    border: 1px solid grey;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    margin-left: 10%;
+    float:left;
+    width: 70%;
+}
+form.search button {
+    float: left;
+    width: 20%;
+    padding: 4px;
+    background: none;
+    color: black;
+    font-size: 17px;
+    border: 0px solid grey;
+    cursor: pointer;
+}
+form.search button:hover {
+    background: #46A818;
+}
+ .active-home{
+  border-bottom: 5px solid rgba(70, 168, 24, 0.57);
+}
+ .active{
+  border-bottom: 5px solid rgba(70, 168, 24, 0.57);
+}
+ /* Column alighment for shelf life search */
+.column.left2 {
+  width: 21%;
+}
+.shelf_life_search{
+  padding: 10px;
+  height: 400px;
+  width: 200px;
+  border: 1px solid black;
+}
+ .shelf_categories{
+  margin:0 4% 5% 5%;
+  float: left;
+  clear:none;
+  width:20%;
+  height:250px;
+  border:2px solid #808080;
+}
+ .categories_style{
+  color: black;
+  padding: 17% 2% 0 0;
+  text-align: right;
+}

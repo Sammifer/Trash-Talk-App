@@ -2247,9 +2247,23 @@ textarea.form-control {
     align-items: center;
     margin-bottom: 0;
   }
+<<<<<<< HEAD
   .form-inline .form-control {
     display: inline-block;
     width: auto;
+=======
+/*Nav bar search width
+  .form-inline-SEARCH .form-control {
+    display: inline-block;
+    width: 150px;
+    vertical-align: middle;
+  } */
+
+/* Store locator search width */
+  .form-inline .form-control {
+    display: inline-block;
+    width: 150px;
+>>>>>>> 0de5bc3c6f464614f1e48b04de91d9a1c47eaeb2
     vertical-align: middle;
   }
   .form-inline .form-control-plaintext {
@@ -9027,4 +9041,8 @@ a.text-dark:hover, a.text-dark:focus {
     border-color: #dee2e6;
   }
 }
+<<<<<<< HEAD
 /*# sourceMappingURL=bootstrap.css.map */
+=======
+/*# sourceMappingURL=bootstrap.css.map */
+>>>>>>> 0de5bc3c6f464614f1e48b04de91d9a1c47eaeb2
